@@ -1,8 +1,8 @@
 import React from "react";
-import JSXVariables from "./components/JSXVariables";
+import Counter from "./components/Counter";
 
 function App() {
-  return <JSXVariables />;
+  return <Counter />;
 }
 
 export default App;
